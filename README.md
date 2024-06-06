@@ -43,7 +43,7 @@
 
 ## <b>Basic Installation</b>
 
-🔰 _PUBLIC ID & FILE CLONING TOOL_
+🔰 _FILE CLONING TOOL_
 
 - `pkg update`
 - `pkg upgrade`
@@ -65,5 +65,5 @@
 
 
 
- ___This Tools is Free___</br>
+ ___This Tools is Paid___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
